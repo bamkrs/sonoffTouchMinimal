@@ -24,7 +24,7 @@ If the WiFi-LED blinks fast (250ms), I have bad news for you: your internal SPI-
 
 Have a look at the [Sonoff-Tasmota projects Wiki on flashing the Sonoff Touch](https://github.com/arendst/Sonoff-Tasmota/wiki/Sonoff-Touch). The Tasmota project is a great resource for everything Sonoff! Please pay attention to the [Sonoff-Tasmota projects Hardware Preparation](https://github.com/arendst/Sonoff-Tasmota/wiki/Hardware-Preparation) and don't kill yourself by working on your touch while connected to AC!
 
-FYI: GPIO-0 is connected to the unlabled IC to the left of the PSF-A/ESP8285 on the Tasmota images. You can easily attach a hook to the top left pin instead of fiddling around on the PSF-A/ESP8285. 
+FYI: GPIO-0 is connected to the unlabled IC to the left of the PSF-A/ESP8285 on the Tasmota images. You can easily attach a hook to the top right pin instead of fiddling around on the PSF-A/ESP8285. 
 
 ## Disclaimer
 I'm definetly not responsible to any hardware damage or personal damage. Use at your own risk!
